@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1761733980 source:d:\work_space_of_vipashana\projects\store management system\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+
